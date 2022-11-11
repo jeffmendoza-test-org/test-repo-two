@@ -1,6 +1,6 @@
 optConfig:
   optIn: true
-action: fix
+action: issue
 requireUpToDateBranch: true
 enforceOnAdmins: true
 requireSignedCommits: true
